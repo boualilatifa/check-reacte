@@ -1,0 +1,42 @@
+nav ul li{
+    
+    display: inline-block;
+    list-style: none;
+    margin: 0px 20px;
+}
+nav ul li {
+    
+    text-decoration: none;
+    color:black;
+    font-weight: blod;
+    color:blanchedalmond;
+    
+
+
+}
+
+#s1{
+    background-color: rgb(217, 232, 235);
+    padding: 10px;
+    width: 100px;
+    border-radius: 25px;
+} 
+#s2{
+    background-color:rgb(217, 232, 235);
+    padding: 10px;
+    width: 100px;
+    border-radius: 25px;
+}
+
+#s3{
+    background-color:rgb(217, 232, 235);
+    padding: 10px;
+    width: 100px;
+    border-radius: 25px;
+}
+.wrapper{
+height:2200px;
+overflow: hidden;
+background: linear-gradient(90deg, rgb(253, 196, 224) 0%, rgb(163, 163, 166) 35%, rgba(120, 55, 91, 0.92)100%);
+
+}
